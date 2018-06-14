@@ -17,6 +17,10 @@ const styles = {
         alignItems: 'center',
         paddingTop: 15,
         height: 60,
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 2 },
+        shadowOpacity: 0.2,
+        
     },
     textStyle: {
         fontSize: 20,
