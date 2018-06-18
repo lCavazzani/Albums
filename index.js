@@ -11,7 +11,7 @@ const App = () =>
     </View>
     );
 // Pre-refactor
-// so funciona se for simples, nao consegui criar variaveis dentro da funcao assim
+//Just works if its a simple component, I could not create a var insidethat function
 // const App = () => {  
 //     return (
 //         <Text>Udemy Test</Text>
